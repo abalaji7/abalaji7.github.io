@@ -1,0 +1,80 @@
+
+body {
+  background-color: lightblue;
+}
+
+.h1{
+  text-align: center;
+}
+
+.h3{
+  text-align:center;
+}
+
+.button{
+  background-color: #ffffe0;
+  border: none;
+  border-radius: 12px;
+  color: black;
+  padding: 40px;
+  padding-bottom: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 10px;
+  cursor: pointer;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.shoe-table {
+  width: 800px;
+  margin: auto;
+  font-size: 20px;
+  font-family: Arial;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+.description-table {
+  width: 800px;
+  margin: auto;
+  font-size: 17px;
+  font-family: Arial;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+.attribution
+{
+  font-size: 10px;
+  color: #808080;
+}
+
+.desc-list{
+  font-size: 15px;
+  font-weight: normal;
+  padding: 10px;
+}
+
+
+.upper-center {
+  margin: 0;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
